@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="9.3">
+<file name="/Users/randasan/PersonalProjects/checkstyle/checkstyle/src/main/java/com/chackstyle/checkstyle/ServletInitializer.java">
+</file>
+<file name="/Users/randasan/PersonalProjects/checkstyle/checkstyle/src/main/java/com/chackstyle/checkstyle/controller/MainController.java">
+</file>
+<file name="/Users/randasan/PersonalProjects/checkstyle/checkstyle/src/main/java/com/chackstyle/checkstyle/CheckstyleApplication.java">
+</file>
+<file name="/Users/randasan/PersonalProjects/checkstyle/checkstyle/src/main/java/com/chackstyle/checkstyle/service/MainService.java">
+</file>
+<file name="/Users/randasan/PersonalProjects/checkstyle/checkstyle/src/main/resources/application.properties">
+</file>
+</checkstyle>
